@@ -1,4 +1,4 @@
-# Image Converter
+# FREE Image Converter
 
 A simple Windows tool to convert images between formats. Supports both folder-based batch conversion and drag-and-drop GUI.
 
