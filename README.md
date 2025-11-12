@@ -1,11 +1,10 @@
-# Image Converter - PNG/JPG ↔ WebP
+# Image Converter
 
-A simple Windows tool to convert images between PNG/JPG and WebP formats. Supports both folder-based batch conversion and drag-and-drop GUI.
+A simple Windows tool to convert images between formats. Supports both folder-based batch conversion and drag-and-drop GUI.
 
 ## Features
 
-- ✅ Convert PNG/JPG → WebP
-- ✅ Convert WebP → PNG
+- ✅ Convert all major image types.
 - ✅ Batch processing (entire folders)
 - ✅ Drag-and-drop GUI
 - ✅ Adjustable quality settings
